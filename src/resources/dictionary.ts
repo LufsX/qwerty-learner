@@ -1397,7 +1397,7 @@ const childrenEnglish: DictionaryResource[] = [
     length: 6268,
     language: 'en',
     languageCategory: 'en',
-  }
+  },
 ]
 // 编程字典
 const programming: DictionaryResource[] = [
